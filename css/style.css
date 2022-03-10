@@ -13,7 +13,7 @@ body {
 
 .header {
     height: 95vh;
-    background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 0.603), rgba(0, 0, 0, 0.425) ), url(/img/img1.jpeg);
+    background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 0.603), rgba(0, 0, 0, 0.425) ), url('../img/img1.jpeg');
     background-position: center;
     background-size: cover;
 }
